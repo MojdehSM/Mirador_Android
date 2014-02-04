@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ميرادر</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="hello_world"></string>
+    <string name="title_activity_admin">فعالیت مدیر</string>
+    <string name="sectionChildren">فرزندان</string>
+    <string name="ChildrensList">ليست فرزندان</string>
+    <string name="Block">قفل کردن برنامه</string>
+    <string name="GPSButton">مکان يابي</string>
+    <string name="Notifys">اطلاع رساني</string>
+    <string name="title_activity_children">فعالیت فرزند</string>
+    <string name="unblock">باز کردن</string>
+    <string name="title_activity_block_password">قفل رمز</string>
+    <string name="title_activity_block_children">قفل فعالیت فرزند</string>
+    <string name="title_activity_display_children">لیست فرزندان</string>
+    <string name="title_activity_add_children">اضافه کردن اطلاعات فرزند  </string>
+    <string name="title_activity_remove_children">حذف فرزند</string>
+    <string name="title_activity_update_children">به روز رسهنی اطلاعات فرزند</string>
+    <string name="fonctions">برنامه ها</string>
+    <string name="from">از</string>
+    <string name="to">تا</string>
+    <string name="sms">پیام</string>
+    <string name="call">تماس</string>
+    <string name="internet">اينترنت</string>
+    <string name="ajoute">اضافه کردن</string>
+    <string name="ajouter_enfant">اضافه کردن فرزند</string>
+    <string name="supprimer_enfant">حذف فرزند</string>
+    <string name="mise_a_jour_annule">لغو به روز رسانی</string>
+    <string name="mise_a_jour">به روز رسانی</string>
+    <string name="supprime">حذف</string>
+    <string name="id">id</string>
+    <string name="nom">فامیل</string>
+    <string name="prenom">نام</string>
+    <string name="numero_tel">شماره تماس</string>
+    <string name="enregistrer">ثبت</string>
+    <string name="annuler">لغو</string>
+    <string name="title_activity_map">نقشه</string>
+    <string name="show_in_map">مکان يابی</string>
+    <string name="send_notification">اطلاع رسانی</string>
+    <string name="do_blockage">قفل کردن</string>
+    <string name="remove_children">حذف فرزند</string>
+    <string name="update_children">به روز رسانی</string>
+    <string name="force_get_last_postion">آخرین مکان یابی</string>
+    <string name="send_notification">فرستادن پیام</string>
+    <string name="title_activity_notification">فعالیت اطلاع رسانی</string>
+	<string name="notification">پیام خود را وارد کنید</string>
+	<string name="Notify">اطلاع رسانی</string>
+	<string name="action_for">انجام شود برای </string>
+	<string name="block_apps">حذف برنامه</string>
+</resources>

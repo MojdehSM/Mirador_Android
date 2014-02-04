@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mirador-esclave</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_main">Главная</string>
+    <string name="title_activity_children">Дети</string>
+    <string name="title_activity_block_password">Блокировка пароля</string>
+    <string name="title_activity_display_parent">Дети</string>
+    <string name="title_activity_add_parent">Добавить</string>
+    <string name="title_activity_remove_parent">Удалить </string>
+    <string name="title_activity_update_parent">Изменить</string>
+    <string name="sectionParent">Родитель</string>
+    <string name="text_edit_parent">Изменить родителя</string>
+    <string name="text_block">Редактирование родителей</string>
+    <string name="block">Блокировать</string>
+    <string name="text_block_password">Введите ваш пароль для блокировки редактирования родителей</string>
+    <string name="text_unblock_password">Введите ваш пароль для разблокировки редактирования родителей</string>
+    <string name="ok">OK</string>
+    <string name="unblock">Разблокировать</string>
+    <string name="password">Пароль</string>
+    <string name="password_not_correct">К сожалению, ваш пароль неверный, попробуйте еще раз</string>
+    <string name="title_activity_notification">Уведомление</string>
+    <string name="hello_world"></string>
+    <string name="ajouter_enfant">Добавить ребенка</string>
+    <string name="supprimer_enfant">Удалить ребенка</string>
+    <string name="ajoute">добавлен</string>
+    <string name="ajouter_enfant">добавить ребенка</string>
+    <string name="supprimer_enfant">удалить ребенка</string>
+    <string name="mise_a_jour_enfant">изменить ребенка</string>
+    <string name="mise_a_jour_annule">изменение отменено</string>
+    <string name="mise_a_jour">изменить</string>
+    <string name="supprime">удален</string>
+    <string name="id">id</string>
+    <string name="nom">фамилия</string>
+    <string name="prenom">имя</string>
+    <string name="numero_tel">номер телефона</string>
+    <string name="enregistrer">сохранить</string>
+    <string name="annuler">отменить</string>
+    <string name="champs_vide">пустые поля</string>
+    <string name="champs_errone">неверное значение поля</string>
+    
+
+</resources>

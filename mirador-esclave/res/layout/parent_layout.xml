@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    
+     <TextView
+         android:id="@+id/TextView_Id"
+         android:layout_width="wrap_content"
+         android:layout_height="50dp"
+         android:text="@string/id" 
+         android:textSize="16sp"
+         android:padding="15dp"
+         android:textColor="@android:color/black"/>
+
+     
+    <TextView
+        android:id="@+id/TextView_Nom"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:textColor="@android:color/black"
+        android:text="@string/nom" 
+        android:padding="15dp"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/TextView_Prenom"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:textColor="@android:color/black"
+        android:text="@string/prenom"
+        android:padding="15dp"
+        android:textSize="16sp" 
+        />
+
+    
+    
+
+    
+
+</LinearLayout>

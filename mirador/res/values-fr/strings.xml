@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mirador</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_world"></string>
+    <string name="title_activity_admin">Administrateur activité</string>
+    <string name="sectionChildren">Enfants</string>
+    <string name="ChildrensList">Liste des enfants</string>
+    <string name="Block">Bloquer</string>
+    <string name="GPSButton">GPS</string>
+    <string name="Notifys">Notifier</string>
+    <string name="title_activity_children">Activités des enfants</string>
+    <string name="unblock">Débloquer</string>
+    <string name="title_activity_block_password">Bloquer mot de passe</string>
+    <string name="title_activity_block_children">Bloquer les activités des enfants</string>
+    <string name="title_activity_display_children">Liste des enfants</string>
+    <string name="title_activity_add_children">Ajouter Informations Enfantsn</string>
+    <string name="title_activity_remove_children">Supprimer enfants</string>
+    <string name="title_activity_update_children">Mise à jour l\'info enfants</string>
+    <string name="fonctions">Fonctions</string>
+    <string name="from">de</string>
+    <string name="to">jusqu\'à</string>
+    <string name="sms">texto</string>
+    <string name="call">appel</string>
+    <string name="internet">internet</string>
+    <string name="ajoute">ajoutée</string>
+    <string name="ajouter_enfant">ajouter enfant</string>
+    <string name="supprimer_enfant">supprimer enfant</string>
+    <string name="mise_a_jour_annule">mise à jour annulée</string>
+    <string name="mise_a_jour">mettre à jour</string>
+    <string name="supprime">supprimé</string>
+    <string name="id">id</string>
+    <string name="nom">nom</string>
+    <string name="prenom">prenom</string>
+    <string name="numero_tel">numéro de téléphone</string>
+    <string name="enregistrer">enregister</string>
+    <string name="annuler">annuler</string>
+    <string name="title_activity_map">Carte Activité</string>
+    <string name="show_in_map">GPS</string>
+    <string name="send_notification">Notifier</string>
+    <string name="do_blockage">Bloquer</string>
+    <string name="force_get_last_postion">Trace children location</string>
+    <string name="send_notification">Envoyer une notification</string>
+    <string name="title_activity_notification">NotificationActivité</string>
+	<string name="notification">Entrez votre notification</string>
+	<string name="Notify">Notifier</string>
+	<string name="action_for">Actions Pour </string>
+</resources>

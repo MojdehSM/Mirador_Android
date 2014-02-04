@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> mirador-esclave</string>
+    <string name="action_settings">settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_children">ChildrenActivity</string>
+    <string name="title_activity_block_password">BlockPasswordActivity</string>
+    <string name="title_activity_display_parent">DisplayChildrenActivity</string>
+    <string name="title_activity_add_parent">AddChildrenActivity</string>
+    <string name="title_activity_remove_parent">RemoveChildrenActivity</string>
+    <string name="title_activity_update_parent">UpdateChildrenActivity</string>
+    <string name="sectionParent">Parent</string>
+    <string name="text_edit_parent">Edit parents</string>
+    <string name="text_block">Edition of parents</string>
+    <string name="block">Block</string>
+    <string name="text_block_password">Enter your pasword to block parents edition</string>
+    <string name="text_unblock_password">Enter your pasword to unlock parents edition</string>
+    <string name="ok">OK</string>
+    <string name="unblock">Unblock</string>
+    <string name="password">Password</string>
+    <string name="password_not_correct">Sorry, your password is not correct, try again</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ajouter_enfant">Add child</string>
+    <string name="supprimer_enfant">Delete child</string>
+    <string name="ajoute">added</string>
+    <string name="ajouter_enfant">add child</string>
+    <string name="supprimer_enfant">delete child</string>
+    <string name="mise_a_jour_enfant">update child</string>
+    <string name="mise_a_jour_annule">update canceled</string>
+    <string name="mise_a_jour">update</string>
+    <string name="supprime">deleted</string>
+    <string name="id">id</string>
+    <string name="nom">surname</string>
+    <string name="prenom">name</string>
+    <string name="numero_tel">phone number</string>
+    <string name="enregistrer">save</string>
+    <string name="annuler">cancel</string>
+    <string name="champs_vide">empty fields</string>
+    <string name="champs_errone">wrong field values</string>
+    
+
+</resources>

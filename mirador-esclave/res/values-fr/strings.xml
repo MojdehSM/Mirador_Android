@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mirador-esclave</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_main">PrincipaleActivité</string>
+    <string name="title_activity_children">EnfantActivité</string>
+    <string name="title_activity_block_password">BloquerMotDePasseActivité</string>
+    <string name="title_activity_display_parent">AfficherEnfantsActivité</string>
+    <string name="title_activity_add_parent">AjouterEnfantsActivité </string>
+    <string name="title_activity_remove_parent">SupprimerEnfantsActivité </string>
+    <string name="title_activity_update_parent">ModifierEnfantsActivité</string>
+    <string name="sectionParent">Parent</string>
+    <string name="text_edit_parent">Modifier parents</string>
+    <string name="text_block">Modification des parents</string>
+    <string name="block">Bloquer</string>
+    <string name="text_block_password">Entrez votre pasword pour bloquer édition des parents</string>
+    <string name="text_unblock_password">Entrez votre mot de passe pour debloquer édition des parents</string>
+    <string name="ok">OK</string>
+    <string name="unblock">Débloquer</string>
+    <string name="password">Password</string>
+    <string name="password_not_correct">Désolé, votre mot de passe n\'est pas correct, essayer à nouveau</string>
+    <string name="title_activity_notification">NotificationActivité</string>
+    <string name="hello_world"></string>
+    <string name="ajouter_enfant">Ajouter enfant</string>
+    <string name="supprimer_enfant">Supprimer enfant</string>
+    <string name="ajoute">ajouté</string>
+    <string name="ajouter_enfant">ajouter enfant</string>
+    <string name="supprimer_enfant">supprimer enfant</string>
+    <string name="mise_a_jour_enfant">mise à jour enfant</string>
+    <string name="mise_a_jour_annule">mise à jour annulé</string>
+    <string name="mise_a_jour">mise à jour</string>
+    <string name="supprime">supprimé</string>
+    <string name="id">id</string>
+    <string name="nom">nom</string>
+    <string name="prenom">prenom</string>
+    <string name="numero_tel">numero telephone</string>
+    <string name="enregistrer">enregister</string>
+    <string name="annuler">annuler</string>
+    <string name="champs_vide">champs vide</string>
+    <string name="champs_errone">champs errone</string>
+    
+
+</resources>

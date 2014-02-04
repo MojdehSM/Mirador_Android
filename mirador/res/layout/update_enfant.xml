@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/editTextNom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="36dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/nom" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editTextPrenom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextNom"
+        android:layout_below="@+id/editTextNom"
+        android:layout_marginTop="22dp"
+        android:ems="10"
+        android:inputType="textPersonName" 
+        android:text="@string/prenom"/>
+
+    <EditText
+        android:id="@+id/editTextNumero"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextPrenom"
+        android:layout_below="@+id/editTextPrenom"
+        android:layout_marginTop="35dp"
+        android:ems="10"
+        android:inputType="phone" 
+        android:text="@string/numero_tel"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextNumero"
+        android:layout_below="@+id/editTextNumero"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="77dp"
+        android:onClick="updateChildren"
+        android:text="@string/enregistrer" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button1"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_toRightOf="@+id/button1"
+        android:onClick="cancel"
+        android:text="@string/annuler" />
+
+</RelativeLayout>

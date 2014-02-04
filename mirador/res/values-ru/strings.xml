@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mirador</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world"></string>
+    <string name="title_activity_admin">Админнистратор</string>
+    <string name="sectionChildren">Дети</string>
+    <string name="ChildrensList">Список детей</string>
+    <string name="Block">Блокировать</string>
+    <string name="GPSButton">GPS</string>
+    <string name="Notifys">Уведомить</string>
+    <string name="title_activity_children">Функции детей</string>
+    <string name="unblock">Разблокировать</string>
+    <string name="title_activity_block_password">Блокировать пароль</string>
+    <string name="title_activity_block_children">Блокировать функции детей</string>
+    <string name="title_activity_display_children">Список детей</string>
+    <string name="title_activity_add_children">Добавить информацию о детях</string>
+    <string name="title_activity_remove_children">Удалить ребенка</string>
+    <string name="title_activity_update_children">Обновить информацию о детях</string>
+    <string name="fonctions">Функции</string>
+    <string name="from">с</string>
+    <string name="to">по</string>
+    <string name="sms">смс</string>
+    <string name="call">вызов</string>
+    <string name="internet">интернет</string>
+    <string name="ajoute">добавлен</string>
+    <string name="ajouter_enfant">Добавить ребенка</string>
+    <string name="supprimer_enfant">Удалить ребенка</string>
+    <string name="mise_a_jour_annule">изменение отменено</string>
+    <string name="mise_a_jour">изменить</string>
+    <string name="supprime">удален</string>
+    <string name="id">id</string>
+    <string name="nom">фамилия</string>
+    <string name="prenom">имя</string>
+    <string name="numero_tel">номер телефона</string>
+    <string name="enregistrer">сохранить</string>
+    <string name="annuler">отменить</string>
+    <string name="title_activity_map">Функции карты</string>
+    <string name="show_in_map">GPS</string>
+    <string name="send_notification">Уведомить</string>
+    <string name="do_blockage">Блокировать</string>
+    <string name="force_get_last_postion">Последняя позиция</string>
+    <string name="send_notification">Отправить уведомление</string>
+    <string name="title_activity_notification">Функции уведомления</string>
+	<string name="notification">Введите ваше уведомление</string>
+	<string name="Notify">Уведомить</string>
+	<string name="action_for">Actions Pour </string>
+	
+</resources>

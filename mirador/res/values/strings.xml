@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mirador</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world"></string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="sectionChildren">Children</string>
+    <string name="ChildrensList">Childrens List</string>
+    <string name="Block">Block</string>
+    <string name="GPSButton">GPS</string>
+    <string name="Notifys">Notifys</string>
+    <string name="title_activity_children">ChildrenActivity</string>
+    <string name="unblock">Unblock</string>
+    <string name="title_activity_block_password">Block Password</string>
+    <string name="title_activity_block_children">Block Children Activity</string>
+    <string name="title_activity_display_children">List of childrens</string>
+    <string name="title_activity_add_children">Add Children Information</string>
+    <string name="title_activity_remove_children">Remove Children</string>
+    <string name="title_activity_update_children">Update Children Information</string>
+    <string name="fonctions">Fonctions</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="sms">sms</string>
+    <string name="call">call</string>
+    <string name="internet">internet</string>
+    <string name="ajoute">added</string>
+    <string name="ajouter_enfant">add child</string>
+    <string name="supprimer_enfant">delete child</string>
+    <string name="mise_a_jour_annule">update canceled</string>
+    <string name="mise_a_jour">update</string>
+    <string name="supprime">deleted</string>
+    <string name="id">id</string>
+    <string name="nom">surname</string>
+    <string name="prenom">name</string>
+    <string name="numero_tel">phone number</string>
+    <string name="enregistrer">save</string>
+    <string name="annuler">Cancel</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="show_in_map">GPS</string>
+    <string name="send_notification">Notify</string>
+    <string name="do_blockage">Block</string>
+    <string name="remove_children">Delete Children</string>
+    <string name="update_children">Update Children</string>
+    <string name="force_get_last_postion">Last Position</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+	<string name="notification">Enter your notification</string>
+	<string name="Notify">Notify</string>
+	<string name="action_for">Actions For </string>
+	<string name="block_apps">Uninstall Application</string>
+</resources>
